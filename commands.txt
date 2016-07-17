@@ -1,0 +1,8 @@
+The program has been compiled and tested on a Debian system, running Jessie 8.2
+
+I used the following commands to execute and compile the program using 
+openjdk 1.8.0_72:
+
+javac -d bin src/*.java
+
+java -cp bin Main
